@@ -1,0 +1,6 @@
+cryptography==3.4.7
+numpy==1.20.3
+qt_material==2.8.7
+pandas==1.2.4
+PySide6==6.1.0
+scikit_learn==0.24.2
